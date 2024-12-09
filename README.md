@@ -6,7 +6,7 @@ The corpus does not contain all the afternoon dresses in the collection, it none
 
 ### Scraped data
 The data is sourced from the website of the Metropolitan Museum of Art, which provides open access to selected parts of its digitalized extensive collection. (www.metmuseum.org)
-As previously mentioned, the scraped data include the object's title, its description (when available), the associated culture of origin, the year of creation, and the direct URL to the costume’s image as available on the MET website.
+As previously mentioned, the scraped data include the object's title, its description (when available), the associated culture of origin, year of creation, and the direct URL to the costume’s image as available on the MET website.
 
 ### Cleaning steps and file format
 The only text cleaning step performed was whitespace stripping, no additional processes were necessary. Upon completion of the code execution, the data was saved in a CSV file. 
