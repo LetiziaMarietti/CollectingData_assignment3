@@ -16,7 +16,9 @@ The following sections are provided verbatim from the Museum’s Terms and Condi
 
 "Copyright and Proprietary Rights. 
 The text, images, trademarks, data, audio files, video files and clips, software, documentation or other information contained in these files, and other content on the Websites (collectively, the "Materials") are proprietary to the Museum or its licensors unless identified by an Open Access (OA) icon. Materials identified as OA are either those that the Museum believes to be in the public domain, or those to which the Museum waives any copyright it might have. Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Museum.
+
 […]
+
 a) Materials Identified as Open Access. By waiving any rights to Materials identified as Open Access, the Museum makes those Materials available for any purpose, including commercial and noncommercial use, free of charge and without requiring permission from the Museum. Open Access works are made available under a Creative Commons Zero (CC0) license."
 
 Metropolitan Museum of Art. (2018, October 25). Terms and Conditions. Retrieved December 8, 2024. https://www.metmuseum.org/policies/terms-and-conditions 
