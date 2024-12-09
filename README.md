@@ -2,7 +2,7 @@
 ## MA Digital Humanities | University of Groningen
 ### Corpus information
 The corpus comprises 11 pictures of afternoon dresses, showing the progression of fashion from the early 1830s to the beginning of the 20th century, accompanied by a description (when available) and other relevant information. The gowns, although currently not on public view, are owned by the Metropolitan Museum of Art in New York and take part of the over 33 thousand fashionable dresses and accessories belonging to the Costume Institute’s collection.  
-The corpus does not contain all the afternoon dresses in the collection, nonetheless it aims to give an overview of such masterpieces of tailoring, encouraging students, scholars, or enthusiasts to further explore the whole collection.
+The corpus does not contain all the afternoon dresses in the collection, it nonetheless intends to provide an overview of a representative sample of such masterpieces of tailoring, encouraging students, scholars, or enthusiasts to further explore the whole collection.
 
 ### Scraped data
 The data is sourced from the website of the Metropolitan Museum of Art, which provides open access to selected parts of its digitalized extensive collection. (www.metmuseum.org)
