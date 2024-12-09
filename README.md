@@ -9,7 +9,7 @@ The data is sourced from the website of the Metropolitan Museum of Art, which pr
 As previously mentioned, the scraped data include the object's title, its description (when available), the associated culture of origin, year of creation, and the direct URL to the costume’s image as available on the MET website.
 
 ### Cleaning steps and file format
-The only text cleaning step performed was whitespace stripping, no additional processes were necessary. Upon completion of the code execution, the data was saved in a CSV file. 
+The only text cleaning step performed was whitespace stripping in order to remove excess whitespace; no additional processes were necessary. Upon completion of the code execution, the data was saved in a CSV file. 
 
 ### Terms and Conditions
 The following sections are provided verbatim from the Museum’s Terms and Conditions webpage, stating the open access condition of selected materials and the subsequent permission to scrape them. 
