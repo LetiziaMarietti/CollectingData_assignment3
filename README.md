@@ -19,6 +19,8 @@ The text, images, trademarks, data, audio files, video files and clips, software
 
 […]
 
+Authorized Uses. Materials for authorized use fall into two categories: a) materials identified by an OA icon, or b) materials the Museum believes to be under copyright or other restrictions.
+
 a) Materials Identified as Open Access. By waiving any rights to Materials identified as Open Access, the Museum makes those Materials available for any purpose, including commercial and noncommercial use, free of charge and without requiring permission from the Museum. Open Access works are made available under a Creative Commons Zero (CC0) license."
 
 Metropolitan Museum of Art. (2018, October 25). Terms and Conditions. Retrieved December 8, 2024. https://www.metmuseum.org/policies/terms-and-conditions 
